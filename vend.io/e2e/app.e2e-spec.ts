@@ -1,10 +1,10 @@
-import { SodaPage } from './app.po';
+import { VendUiPage } from './app.po';
 
-describe('soda App', function() {
-  let page: SodaPage;
+describe('vend-ui App', function() {
+  let page: VendUiPage;
 
   beforeEach(() => {
-    page = new SodaPage();
+    page = new VendUiPage();
   });
 
   it('should display message saying app works', () => {

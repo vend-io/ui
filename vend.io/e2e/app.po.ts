@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class SodaPage {
+export class VendUiPage {
   navigateTo() {
     return browser.get('/');
   }
