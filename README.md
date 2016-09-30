@@ -8,7 +8,7 @@ TODO
 
 ## Contribute
 
-### Requirements
+### Prerequisites
 
 * Node - v6+
 * NPM - latest
